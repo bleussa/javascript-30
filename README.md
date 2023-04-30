@@ -6,5 +6,5 @@ Mientras descansaba en la cama, me encontr√© con un TikTok que mencionaba una p√
 ## Desafios
 
 ### 01-drum-kit
-![01-drum-kit](/screenshot.png "01-drum-kit")
+![01-drum-kit](01-drum-kit/screenshot.png "01-drum-kit")
 
